@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24466371664",
+    "firebase_url": "https://devchat-7297b.firebaseio.com",
+    "project_id": "devchat-7297b",
+    "storage_bucket": "devchat-7297b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24466371664:android:5d1803a5a494a2a2",
+        "android_client_info": {
+          "package_name": "com.ibrickedlabs.devchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24466371664-emnudfu6fecu9eq4eptdt2745stc03n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibrickedlabs.devchat",
+            "certificate_hash": "0a3bad2223be8d75673a0d63b732396a8e16e7be"
+          }
+        },
+        {
+          "client_id": "24466371664-ohu7lqqdb7sv3jm969t1ndt54tqr0s5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJH2glSmr9Y7Tl_8CU2eyvoVKHHOCFvAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24466371664-ohu7lqqdb7sv3jm969t1ndt54tqr0s5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
